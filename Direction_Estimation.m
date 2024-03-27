@@ -2,7 +2,7 @@ clear;
 close all;
 clc
 
- load('range_azimuth_data.mat')
+load('range_azimuth_data.mat')
 
 % 2.1 Plot the absolute value of the image
 abs_SAR_image = abs(SAR_image);
