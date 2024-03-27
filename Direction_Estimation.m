@@ -1,5 +1,5 @@
-clear; 
-close all;
+clear
+close all
 clc
 
 load('range_azimuth_data.mat')
